@@ -14,7 +14,7 @@ Currently, I'm exploring scalable AI systems, autonomous agents, and production-
 
 # 🚀 About Me
 
-* 🔭 Building AI-powered applications with FastAPI, React, and LLMs
+* 🔭 Building AI-powered applications 
 * 🌱 Learning Agentic AI, Advanced RAG, MCP, AI Agents, and Cloud Deployment
 * 💡 Interested in Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI
 * 💻 Love solving real-world problems through AI
