@@ -21,6 +21,9 @@ Currently, I'm exploring scalable AI systems, autonomous agents, and production-
 * 📈 Always learning new technologies and improving my development skills
 
 ---
+
+# 💻 Tech Stack
+
 👨‍💻 Programming Languages
 
 Python | Java | SQL | C | R | JavaScript | HTML | CSS
@@ -40,6 +43,8 @@ PostgreSQL | MySQL | MongoDB | ChromaDB
 ⚙️ Tools
 
 Git | GitHub | Docker | VS Code | Postman | Power BI | Excel | Google Colab | RStudi
+
+---
 
 # 🚀 Featured Projects
 
