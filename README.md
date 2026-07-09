@@ -24,23 +24,23 @@ Currently, I'm exploring scalable AI systems, autonomous agents, and production-
 
 # 💻 Tech Stack
 
-👨‍💻 Programming Languages
+##👨‍💻 Programming Languages
 
 Python | Java | SQL | C | R | JavaScript | HTML | CSS
 
-🤖 Artificial Intelligence & Machine Learning
+## 🤖 Artificial Intelligence & Machine Learning
 
 Machine Learning | Deep Learning | Data Science | Natural Language Processing | Generative AI | Large Language Models (LLMs) | Retrieval-Augmented Generation (RAG) | Agentic AI | OCR | Computer Vision
 
-📚 Frameworks & Libraries
+## 📚 Frameworks & Libraries
 
 FastAPI | Streamlit | Scikit-learn | Pandas | NumPy | Matplotlib | Hugging Face | Ollama | Google Gemini | Groq API
 
-🗄️ Databases
+## 🗄️ Databases
 
 PostgreSQL | MySQL | MongoDB | ChromaDB
 
-⚙️ Tools
+## ⚙️ Tools
 
 Git | GitHub | Docker | VS Code | Postman | Power BI | Excel | Google Colab | RStudi
 
