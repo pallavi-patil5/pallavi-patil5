@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pallavi Patil
 
-### AI & Data Science Engineer | Machine Learning | Generative AI | FastAPI | Python
+### AI & Data Science Engineer | Machine Learning | Generative AI | Python
 
 🎓 **B.Tech in Artificial Intelligence & Data Science**
 📍 Vishwakarma Institute of Technology (VIT), Pune
