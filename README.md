@@ -167,25 +167,6 @@ Machine Learning application that predicts startup profitability using multiple 
 
 ---
 
-# 📜 Certifications
-
-* Excel Data Visualization: Mastering 20+ Charts and Graphs
-* SQL Essential Training
-
----
-
-# 🎓 Education
-
-**Vishwakarma Institute of Technology (VIT), Pune**
-
-Bachelor of Technology (B.Tech)
-
-Artificial Intelligence & Data Science
-
-**CGPA:** 9.25
-
----
-
 # 🌟 Areas of Interest
 
 * Artificial Intelligence
