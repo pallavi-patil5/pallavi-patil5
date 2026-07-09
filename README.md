@@ -21,74 +21,25 @@ Currently, I'm exploring scalable AI systems, autonomous agents, and production-
 * 📈 Always learning new technologies and improving my development skills
 
 ---
+👨‍💻 Programming Languages
 
-# 🛠️ Tech Stack
+Python | Java | SQL | C | R | JavaScript | HTML | CSS
 
-### 👨‍💻 Programming Languages
+🤖 Artificial Intelligence & Machine Learning
 
-* Python
-* Java
-* SQL
-* C
-* R
-* JavaScript
-* HTML
-* CSS
+Machine Learning | Deep Learning | Data Science | Natural Language Processing | Generative AI | Large Language Models (LLMs) | Retrieval-Augmented Generation (RAG) | Agentic AI | OCR | Computer Vision
 
----
+📚 Frameworks & Libraries
 
-### 🤖 Artificial Intelligence & Machine Learning
+FastAPI | Streamlit | Scikit-learn | Pandas | NumPy | Matplotlib | Hugging Face | Ollama | Google Gemini | Groq API
 
-* Machine Learning
-* Deep Learning
-* Data Science
-* Natural Language Processing
-* Generative AI
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Agentic AI
-* OCR
-* Computer Vision
+🗄️ Databases
 
----
+PostgreSQL | MySQL | MongoDB | ChromaDB
 
-### 📚 Frameworks & Libraries
+⚙️ Tools
 
-* FastAPI
-* Streamlit
-* Scikit-learn
-* Pandas
-* NumPy
-* Matplotlib
-* Hugging Face
-* Ollama
-* Google Gemini
-* Groq API
-
----
-
-### 🗄️ Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* ChromaDB
-
----
-
-### ⚙️ Tools
-
-* Git
-* GitHub
-* Docker
-* VS Code
-* Postman
-* Power BI
-* Excel
-* Google Colab
-* RStudio
-
----
+Git | GitHub | Docker | VS Code | Postman | Power BI | Excel | Google Colab | RStudi
 
 # 🚀 Featured Projects
 
