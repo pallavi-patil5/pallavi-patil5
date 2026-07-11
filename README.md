@@ -54,15 +54,6 @@ Git | GitHub | Docker | VS Code | Postman | Power BI | Excel | Google Colab | RS
 
 An AI-powered healthcare platform that streamlines appointment booking, doctor scheduling, patient follow-ups, secure authentication, analytics, and automated email reminders.
 
-### Features
-
-* Patient, Doctor & Admin Dashboards
-* JWT Authentication
-* Appointment Scheduling
-* Follow-up Management
-* Email Notifications
-* Analytics Dashboard
-* Docker Deployment
 
 ---
 
@@ -72,14 +63,6 @@ An AI-powered healthcare platform that streamlines appointment booking, doctor s
 
 An intelligent CRM platform powered by AI agents that automates customer management, lead prioritization, business insights, and customer interaction summarization.
 
-### Features
-
-* AI-powered Customer Insights
-* Lead Prioritization
-* Intelligent Summarization
-* Role-based Authentication
-* REST APIs
-* Dockerized Deployment
 
 ---
 
@@ -89,14 +72,6 @@ An intelligent CRM platform powered by AI agents that automates customer managem
 
 A DBMS-based platform connecting customers with verified local service providers using dedicated dashboards for users, workers, and administrators.
 
-### Features
-
-* Service Booking
-* Worker Dashboard
-* Admin Dashboard
-* Authentication
-* Booking Management
-* Database Normalization
 
 ---
 
@@ -106,14 +81,6 @@ A DBMS-based platform connecting customers with verified local service providers
 
 AI-powered accounting platform that automates invoice processing, bookkeeping, vendor management, and financial record organization.
 
-### Features
-
-* OCR-based Invoice Processing
-* Llama 3 Invoice Understanding
-* Vendor Management
-* MongoDB Integration
-* SMTP Notifications
-* Dockerized Backend
 
 ---
 
@@ -123,14 +90,6 @@ AI-powered accounting platform that automates invoice processing, bookkeeping, v
 
 A Retrieval-Augmented Generation system for intelligent document search and question answering.
 
-### Features
-
-* Semantic Search
-* PDF Processing
-* DOCX Processing
-* Intelligent Chunking
-* Metadata Indexing
-* Confidence Scoring
 
 ---
 
@@ -140,14 +99,6 @@ A Retrieval-Augmented Generation system for intelligent document search and ques
 
 A multi-agent AI system that automates exploratory data analysis, preprocessing, feature engineering, visualization, and machine learning workflows.
 
-### Features
-
-* Automated EDA
-* Feature Engineering
-* AI Agent Orchestration
-* Model Selection
-* Visualization
-* Natural Language Queries
 
 ---
 
@@ -157,13 +108,6 @@ A multi-agent AI system that automates exploratory data analysis, preprocessing,
 
 Machine Learning application that predicts startup profitability using multiple regression algorithms and hyperparameter optimization.
 
-### Features
-
-* Data Preprocessing
-* Feature Engineering
-* GridSearchCV
-* Cross Validation
-* Business Insights Dashboard
 
 ---
 
