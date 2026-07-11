@@ -55,7 +55,6 @@ Git | GitHub | Docker | VS Code | Postman | Power BI | Excel | Google Colab | RS
 An AI-powered healthcare platform that streamlines appointment booking, doctor scheduling, patient follow-ups, secure authentication, analytics, and automated email reminders.
 
 
----
 
 ### 🤖 Agentic CRM Intelligence Platform
 
@@ -64,7 +63,6 @@ An AI-powered healthcare platform that streamlines appointment booking, doctor s
 An intelligent CRM platform powered by AI agents that automates customer management, lead prioritization, business insights, and customer interaction summarization.
 
 
----
 
 ### 💼 ConnectBridge – Local Service Marketplace
 
@@ -73,7 +71,6 @@ An intelligent CRM platform powered by AI agents that automates customer managem
 A DBMS-based platform connecting customers with verified local service providers using dedicated dashboards for users, workers, and administrators.
 
 
----
 
 ### 💰 FinTrack AI – Intelligent Invoice & Accounting System
 
@@ -82,7 +79,6 @@ A DBMS-based platform connecting customers with verified local service providers
 AI-powered accounting platform that automates invoice processing, bookkeeping, vendor management, and financial record organization.
 
 
----
 
 ### 📄 Semantic Document Processor (RAG)
 
@@ -91,7 +87,6 @@ AI-powered accounting platform that automates invoice processing, bookkeeping, v
 A Retrieval-Augmented Generation system for intelligent document search and question answering.
 
 
----
 
 ### 📊 Autonomous Data Science Agent
 
@@ -100,7 +95,6 @@ A Retrieval-Augmented Generation system for intelligent document search and ques
 A multi-agent AI system that automates exploratory data analysis, preprocessing, feature engineering, visualization, and machine learning workflows.
 
 
----
 
 ### 📈 Startup Profit Prediction
 
