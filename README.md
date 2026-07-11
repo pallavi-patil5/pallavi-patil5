@@ -48,7 +48,7 @@ Git | GitHub | Docker | VS Code | Postman | Power BI | Excel | Google Colab | RS
 
 # 🚀 Featured Projects
 
-## 🏥 Healthcare Appointment & Follow-up Manager
+### 🏥 Healthcare Appointment & Follow-up Manager
 
 **Tech Stack:** FastAPI • React • TypeScript • PostgreSQL • Docker • JWT • SMTP
 
@@ -57,7 +57,7 @@ An AI-powered healthcare platform that streamlines appointment booking, doctor s
 
 ---
 
-## 🤖 Agentic CRM Intelligence Platform
+### 🤖 Agentic CRM Intelligence Platform
 
 **Tech Stack:** FastAPI • PostgreSQL • LLM • Agentic AI • Docker
 
@@ -66,7 +66,7 @@ An intelligent CRM platform powered by AI agents that automates customer managem
 
 ---
 
-## 💼 ConnectBridge – Local Service Marketplace
+### 💼 ConnectBridge – Local Service Marketplace
 
 **Tech Stack:** Java • MySQL • HTML • CSS • JavaScript
 
@@ -75,7 +75,7 @@ A DBMS-based platform connecting customers with verified local service providers
 
 ---
 
-## 💰 FinTrack AI – Intelligent Invoice & Accounting System
+### 💰 FinTrack AI – Intelligent Invoice & Accounting System
 
 **Tech Stack:** Python • FastAPI • MongoDB • OCR • Llama 3 • Docker
 
@@ -84,7 +84,7 @@ AI-powered accounting platform that automates invoice processing, bookkeeping, v
 
 ---
 
-## 📄 Semantic Document Processor (RAG)
+### 📄 Semantic Document Processor (RAG)
 
 **Tech Stack:** FastAPI • ChromaDB • BGE Embeddings • Llama 3 • Docker
 
@@ -93,7 +93,7 @@ A Retrieval-Augmented Generation system for intelligent document search and ques
 
 ---
 
-## 📊 Autonomous Data Science Agent
+### 📊 Autonomous Data Science Agent
 
 **Tech Stack:** Python • Streamlit • Gemini • Groq API • Docker
 
@@ -102,7 +102,7 @@ A multi-agent AI system that automates exploratory data analysis, preprocessing,
 
 ---
 
-## 📈 Startup Profit Prediction
+### 📈 Startup Profit Prediction
 
 **Tech Stack:** Python • Scikit-learn • Pandas • NumPy • Streamlit
 
